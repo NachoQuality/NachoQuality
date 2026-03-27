@@ -1,5 +1,4 @@
 # Sobre mi
-## Puedes llamarme Nacho o Ignacio, no me importa
 
 - 🔭 Trabajo en el departamento de calidad
 - 👯 Quiero colaborar contigo para dar a los productos y servicios de BSS una calidad que satisfaga las necesidades de nuestros clientes
